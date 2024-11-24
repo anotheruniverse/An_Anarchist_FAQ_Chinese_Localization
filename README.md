@@ -1,6 +1,8 @@
 # An_Anarchist_FAQ_Chinese_Locolization
 对《无政府主义者常见问答》(An Anarchist FAQ)的汉语本地化
 
+原文网页版本：https://www.anarchistfaq.org/afaq/index.html
+
 目前个人正在缓慢地进行着本地化工作，采用个人翻译或机翻+反复校对的的方式进行。
 （个人CET4 595分、CET6 548分，机翻只是附属手段，用以提高翻译的效率，**绝对不会**采用纯机翻不校对的方式翻译）
 
