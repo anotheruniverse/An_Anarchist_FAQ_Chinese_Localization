@@ -21,7 +21,7 @@
 | A.1      | 单凌锐 | 95%                                                                                                                          | 同步   |     |
 | A.2      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   | 未同步 |
 | A.3      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   |     |
-| A.4      | 单凌锐 | 25%                                                                                                                          | 同步   |     |
+| A.4      | 单凌锐 | 30%                                                                                                                          | 同步   |     |
 | A.5      |     |                                                                                                                              |      |     |
 | B.1      |     | 100%                                                                                                                         | 0%   |     |
 | B.2      |     | 100%                                                                                                                         | 0%   |     |
