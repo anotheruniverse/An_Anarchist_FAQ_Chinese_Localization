@@ -34,8 +34,8 @@ K
 
 L
 
-Libertarianism 自由意志主义
-（注意，而非自由主义（Liberalism））
+libertarianism 自由意志主义
+（注意，不是自由主义（liberalism））
 
 
 M
@@ -52,6 +52,11 @@ R
 
 S
 
+self-activity 自我活动
+self-determination 自决/自主决定
+
+social contrast 社会契约
+
 T
 
 U
@@ -59,6 +64,9 @@ U
 V
 
 W
+
+working class 工人阶级
+注意，不翻做无产阶级（proletariat）
 
 X
 
