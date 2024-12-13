@@ -1,11 +1,19 @@
+注：未标明的情况下默认采用斜杠前的翻译。斜杠后的翻译可以视文章内容，按通顺性和不致歧义或误解的情况下灵活取用
+
 A
 
-anarchy	无政府状态/安那其状态/安那其
-anarchsim 无政府主义/安那其主义/无治主义
-目前统一使用无政府主义的译名
+anarchy    无政府状态/安那其状态/安那其
+anarchism 无政府主义/安那其主义/无治主义
+目前统一使用无政府主义的译名，详见“汉化者声明”
 
 authority 权威/威权
-理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有声望罢了，所以成为一个“权威”
+理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有声望罢了，所以成为一个“权威”。但默认仍按照“权威”翻译，比如威权社会主义另有翻译(Authoritarian socialism)
+
+authoritarian 独裁主义（的）/威权主义（的）/独裁（的）
+
+autocracy 独裁/专制统治
+capitalist autocracy 资本专制统治
+autocratic 专制的
 
 B
 
@@ -13,20 +21,26 @@ C
 
 D
 
+division of labour 劳动分工
+专有名词
+
 E
 
 F
+
+Founding Father 开国元勋
 
 G
 
 H
 
 hierarchy 等级关系/阶层关系/等级阶层关系
-译注：直译为“等级关系”，但是个人感觉此翻译不好，此翻译与政治的关联不大，所以暂译“阶层”
+译注：直译为“等级关系”，但是个人感觉此翻译不好，此翻译与政治的关联不大，所以可能暂译“阶层”
 hierarchical relation(ship) 阶层关系
 
-
 I
+
+individuality 个性
 
 J
 
@@ -34,43 +48,73 @@ K
 
 L
 
+laissez-faire 自由放任（政策）
+
+
 libertarianism 自由意志主义
 （注意，不是自由主义（liberalism））
-
+libertarianist 自由意志主义者
 
 M
+
+Makhnovists 黑军/马赫诺军/乌克兰革命起义军
+Makhnovist movement 马赫诺运动
 
 N
 
 O
 
+Op. Cit. （= opere citato） 同上，同上文
+
+oligarchy 寡头政治
+
 P
+
+patriarchal 父权制的
 
 Q
 
 R
+
+Ricardian socialism 李嘉图社会主义
 
 S
 
 self-activity 自我活动
 self-determination 自决/自主决定
 
+state socialism 国有社会主义
+[源自德语Staatssozialismus](https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%9C%89%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9)
+不翻译做“政府社会主义”或者[“国家社会主义”](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89)，后者一般指的是民族社会主义或纳粹主义
+state capitalism 国家社会主义
+[源自德语Staatskapitalismus](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89)，在本书中，批判国有社会主义（即非无政府主义式的社会主义）=国家资本主义
+
 social contrast 社会契约
 
+social participation 社会参与
+
 T
+
+tradition 传统
+在书中通常指得是社会传统（social tradition）
 
 U
 
 V
 
+voluntary 自愿的
+
 W
 
-working class 工人阶级
-注意，不翻做无产阶级（proletariat）
+wage slavery 工资奴役
+
+wage labour 雇佣劳动
+
+working class 工人阶级/劳动阶级
+注意，不译做无产阶级（proletariat）
 
 X
 
 Y
 
 X
-

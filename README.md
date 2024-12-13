@@ -1,4 +1,4 @@
-# An_Anarchist_FAQ_Chinese_Locolization
+# An_Anarchist_FAQ_Chinese_Localization
 
 对《无政府主义者常见问答》(An Anarchist FAQ)的汉语本地化
 
@@ -16,25 +16,25 @@
 
 下表表示目前的汉化进度。为防止贡献者重复汉化，可以先对想汉化的章节进行声明，用以标识已有人从事此部分的汉化工作。
 
-| 章节       | 声明  | 翻译进度                                                                                                                         | 校对进度 | 备注  |
-| -------- | --- | ---------------------------------------------------------------------------------------------------------------------------- | ---- | --- |
-| A.1      | 单凌锐 | 95%                                                                                                                          | 同步   |     |
-| A.2      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   | 未同步 |
-| A.3      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   |     |
-| A.4      | 单凌锐 | 30%                                                                                                                          | 同步   |     |
-| A.5      |     |                                                                                                                              |      |     |
-| B.1      |     | 100%                                                                                                                         | 0%   |     |
-| B.2      |     | 100%                                                                                                                         | 0%   |     |
-| B.3      |     | 100%                                                                                                                         | 0%   |     |
-| B.4-B.7  |     |                                                                                                                              |      |     |
-| C.1      |     | 100%                                                                                                                         | 0%   |     |
-| C.2      |     | 100%                                                                                                                         | 0%   |     |
-| C.3      |     | 100%                                                                                                                         | 0%   |     |
-| C.4-C.12 |     |                                                                                                                              |      |     |
-| D        |     |                                                                                                                              |      |     |
-| E        |     |                                                                                                                              |      |     |
-| F        |     |                                                                                                                              |      |     |
-| G        |     |                                                                                                                              |      |     |
-| H        |     |                                                                                                                              |      |     |
-| I        |     |                                                                                                                              |      |     |
-| J        |     |                                                                                                                              |      |     |
+| 章节       | 声明  | 翻译进度                                                                                                                         | 校对进度 | 备注     |
+| -------- | --- | ---------------------------------------------------------------------------------------------------------------------------- | ---- | ------ |
+| A.1      | 单凌锐 | 100%                                                                                                                         | 100% |        |
+| A.2      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   | 未同步进文档 |
+| A.3      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   |        |
+| A.4      | 单凌锐 | 40%                                                                                                                          | 同步   |        |
+| A.5      |     |                                                                                                                              |      |        |
+| B.1      |     | 100%                                                                                                                         | 0%   |        |
+| B.2      |     | 100%                                                                                                                         | 0%   |        |
+| B.3      |     | 100%                                                                                                                         | 0%   |        |
+| B.4-B.7  |     |                                                                                                                              |      |        |
+| C.1      |     | 100%                                                                                                                         | 0%   |        |
+| C.2      |     | 100%                                                                                                                         | 0%   |        |
+| C.3      |     | 100%                                                                                                                         | 0%   |        |
+| C.4-C.12 |     |                                                                                                                              |      |        |
+| D        |     |                                                                                                                              |      |        |
+| E        |     |                                                                                                                              |      |        |
+| F        |     |                                                                                                                              |      |        |
+| G        |     |                                                                                                                              |      |        |
+| H        |     |                                                                                                                              |      |        |
+| I        |     |                                                                                                                              |      |        |
+| J        |     |                                                                                                                              |      |        |
