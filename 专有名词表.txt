@@ -6,20 +6,28 @@ anarchy    无政府状态/安那其状态/安那其
 anarchism 无政府主义/安那其主义/无治主义
 目前统一使用无政府主义的译名，详见“汉化者声明”
 
+anti-parliamentarian 反议会派
+
 authority 权威/威权
 理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有声望罢了，所以成为一个“权威”。但默认仍按照“权威”翻译，比如威权社会主义另有翻译(Authoritarian socialism)
 
-authoritarian 独裁主义（的）/威权主义（的）/独裁（的）
+authoritarian 威权主义（的）/独裁主义（的）/独裁（的）
 
 autocracy 独裁/专制统治
 capitalist autocracy 资本专制统治
 autocratic 专制的
+
+autonomy 自治/自治权
+
+Autonomism/Autonomist Marxism 自治主义/自治马克思主义
 
 B
 
 C
 
 D
+
+decentralized 去中心化的/放权的
 
 division of labour 劳动分工
 专有名词
@@ -31,6 +39,8 @@ F
 Founding Father 开国元勋
 
 G
+
+guild socialism 行会社会主义
 
 H
 
@@ -51,13 +61,14 @@ L
 laissez-faire 自由放任（政策）
 
 
-libertarianism 自由意志主义
+libertarism 自由意志主义
 （注意，不是自由主义（liberalism））
-libertarianist 自由意志主义者
+libertarian 自由意志主义者
 
 M
 
 Makhnovists 黑军/马赫诺军/乌克兰革命起义军
+注意，不译作“马赫诺主义者”
 Makhnovist movement 马赫诺运动
 
 N
@@ -71,6 +82,8 @@ oligarchy 寡头政治
 P
 
 patriarchal 父权制的
+
+pamphlets 宣传册/小册子
 
 Q
 
