@@ -23,7 +23,17 @@ Autonomism/Autonomist Marxism 自治主义/自治马克思主义
 
 B
 
+bourgeoisie 资产阶级，资产阶级分子
+注意与capitalist 资本家，相区分
+
 C
+
+commune 公社/社群
+The Paris Commune 巴黎公社
+
+Communards 公社社员
+
+co-operatives 合作社
 
 D
 
@@ -34,9 +44,14 @@ division of labour 劳动分工
 
 E
 
+expropriate 没收，征用
+
 F
 
 Founding Father 开国元勋
+
+federation 联邦（制）
+注意和confederation 邦联（制），相区分
 
 G
 
@@ -51,6 +66,8 @@ hierarchical relation(ship) 阶层关系
 I
 
 individuality 个性
+
+imperative mandate 强制委任
 
 J
 
@@ -70,6 +87,8 @@ M
 Makhnovists 黑军/马赫诺军/乌克兰革命起义军
 注意，不译作“马赫诺主义者”
 Makhnovist movement 马赫诺运动
+
+May_68/the massive explosion of May 1968 in France 五月风暴
 
 N
 
@@ -93,6 +112,9 @@ Ricardian socialism 李嘉图社会主义
 
 S
 
+sections 区会
+法国大革命/巴黎公社中的直接民主制的群众大会，没找到比较好的翻译，暂译作区会
+
 self-activity 自我活动
 self-determination 自决/自主决定
 
@@ -110,6 +132,10 @@ T
 
 tradition 传统
 在书中通常指得是社会传统（social tradition）
+
+tyranny 暴政
+暴虐，专横，暴君统治
+
 
 U
 

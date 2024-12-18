@@ -8,9 +8,9 @@
 （机器翻译只是附属手段，用以提高翻译的效率，**请勿**仅搬用机翻结果。）
 
 如果没有其他人参与，预期实现完全本地化的工作将持续1年（也就是预计2026年年初完成全部的汉化工作）
-您可以通过anothercosmos@protonmail.com联系我，参与翻译，或者指出已有翻译的不妥之处以及任何的改进意见。
+如果您感兴趣，可以通过anothercosmos@protonmail.com联系我，共同参与翻译；也非常欢迎指出已有翻译的不妥之处与错误，以及任何的改进意见。
 
-目前有计划在2024年12月月底，收集互联网上已有的翻译，并尝试在互联网上召集和组织其他人，共同参与翻译，以尽早实现本书的汉化工作。本仓库也会为了更多人参与的去中心化地翻译，在未来进一步优化结构。当前仅供存档个人翻译
+本仓库也会为了更多人参与的去中心化地翻译，在未来进一步优化结构。当前仅供存档个人翻译
 
 此汉化版本和原版本一样，基于GNU 2.0许可证公开。
 
@@ -22,7 +22,7 @@
 | A.2      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   | 未同步进文档 |
 | A.3      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   |        |
 | A.4      | 单凌锐 | 100%                                                                                                                         | 同步   |        |
-| A.5      | 单凌锐 | 0%                                                                                                                           | 同步   |        |
+| A.5      | 单凌锐 | 20%                                                                                                                          | 同步   |        |
 | B.1      |     | 100%                                                                                                                         | 0%   |        |
 | B.2      |     | 100%                                                                                                                         | 0%   |        |
 | B.3      |     | 100%                                                                                                                         | 0%   |        |
