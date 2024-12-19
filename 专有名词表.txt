@@ -2,6 +2,8 @@
 
 A
 
+abstentionism 不干涉主义
+
 anarchy    无政府状态/安那其状态/安那其
 anarchism 无政府主义/安那其主义/无治主义
 目前统一使用无政府主义的译名，详见“汉化者声明”
@@ -21,6 +23,8 @@ autonomy 自治/自治权
 
 Autonomism/Autonomist Marxism 自治主义/自治马克思主义
 
+apolitical 政治冷漠的，不关心政治的
+
 B
 
 bourgeoisie 资产阶级，资产阶级分子
@@ -30,8 +34,15 @@ C
 
 commune 公社/社群
 The Paris Commune 巴黎公社
+communalism 社群主义
 
 Communards 公社社员
+
+communism 共产主义
+communist-anarchism 共产无政府主义
+和anarcho-communism（无政府共产主义）一个意思，只不过是谁做修饰词的问题
+
+community unionism 社区工会主义
 
 co-operatives 合作社
 
@@ -39,10 +50,17 @@ D
 
 decentralized 去中心化的/放权的
 
+defence association 防卫联盟（暂译）
+请后续译者审查
+
 division of labour 劳动分工
 专有名词
 
 E
+
+economic structural crisis 经济结构性危机
+
+electioneering 竞选活动
 
 expropriate 没收，征用
 
@@ -63,15 +81,26 @@ hierarchy 等级关系/阶层关系/等级阶层关系
 译注：直译为“等级关系”，但是个人感觉此翻译不好，此翻译与政治的关联不大，所以可能暂译“阶层”
 hierarchical relation(ship) 阶层关系
 
+homestead theory 宅地理论
+书中用作F.4.1节，详见维基百科：
+[Walter Edward Block#Homestead](https://en.wikipedia.org/wiki/Walter_Block#Homesteading) , [Homestead principle](https://en.wikipedia.org/wiki/Homestead_principle)
+
 I
 
 individuality 个性
+
+industrial network 产业网络
+
+interest groups 利益集团
 
 imperative mandate 强制委任
 
 J
 
 K
+
+keynesianism 凯恩斯主义
+
 
 L
 
@@ -90,6 +119,12 @@ Makhnovist movement 马赫诺运动
 
 May_68/the massive explosion of May 1968 in France 五月风暴
 
+mutual 互助的
+mutual credit 互助信贷（用在J.5节）
+credit 信贷
+mutual bank 互助银行
+mutual banking 互助储蓄
+
 N
 
 O
@@ -104,9 +139,15 @@ patriarchal 父权制的
 
 pamphlets 宣传册/小册子
 
+participatory community 参与式社区
+
+professional body 专业机构
+
 Q
 
 R
+
+reformism 改良派
 
 Ricardian socialism 李嘉图社会主义
 
@@ -118,6 +159,13 @@ sections 区会
 self-activity 自我活动
 self-determination 自决/自主决定
 
+single-issue 单一问题
+single-issue campaigns 单一问题运动
+[单一问题政治-维基百科](https://en.wikipedia.org/wiki/Single-issue_politics)
+
+state 国家
+主义和政府（government）相区别，虽然政府在更广泛的含义上就是国家
+statism 国家主义，中央集权
 state socialism 国有社会主义
 [源自德语Staatssozialismus](https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%9C%89%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9)
 不翻译做“政府社会主义”或者[“国家社会主义”](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89)，后者一般指的是民族社会主义或纳粹主义
@@ -128,10 +176,15 @@ social contrast 社会契约
 
 social participation 社会参与
 
+syndicate 辛迪加，工团
+
 T
 
 tradition 传统
 在书中通常指得是社会传统（social tradition）
+
+Tragedy of the Commons 公地悲剧
+参见[维基百科](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%9C%B0%E6%82%B2%E5%8A%87)
 
 tyranny 暴政
 暴虐，专横，暴君统治
@@ -141,6 +194,11 @@ U
 
 V
 
+vanguard 先锋队
+vanguardism 先锋队理论
+vanguardist  先锋主义者
+vanguard party 先锋党（暂译）
+
 voluntary 自愿的
 
 W
@@ -148,6 +206,7 @@ W
 wage slavery 工资奴役
 
 wage labour 雇佣劳动
+在语境中也可翻译作雇佣劳工
 
 working class 工人阶级/劳动阶级
 注意，不译做无产阶级（proletariat）
