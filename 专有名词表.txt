@@ -1,4 +1,5 @@
 注：未标明的情况下默认采用斜杠前的翻译。斜杠后的翻译可以视文章内容，按通顺性和不致歧义或误解的情况下灵活取用
+Op.Cit.（同上）和quoted by（引自）在文章中基本未单独翻译过来，后续可能需要用Ctrl+H替换
 
 A
 
@@ -27,15 +28,18 @@ apolitical 政治冷漠的，不关心政治的
 
 B
 
+Bolshevik 布尔什维克
+
 bourgeoisie 资产阶级，资产阶级分子
 注意与capitalist 资本家，相区分
 
 C
 
+common property 公共财产
+
 commune 公社/社群
 The Paris Commune 巴黎公社
 communalism 社群主义
-
 Communards 公社社员
 
 communism 共产主义
@@ -93,6 +97,8 @@ industrial network 产业网络
 
 interest groups 利益集团
 
+intelligentsia 知识分子
+
 imperative mandate 强制委任
 
 J
@@ -101,6 +107,7 @@ K
 
 keynesianism 凯恩斯主义
 
+Knights of Labor 劳工骑士团
 
 L
 
@@ -114,10 +121,13 @@ libertarian 自由意志主义者
 M
 
 Makhnovists 黑军/马赫诺军/乌克兰革命起义军
-注意，不译作“马赫诺主义者”
+注意，不译作“马赫诺主义者”，因为该词源自乌克兰语Махновці（Makhnovtsi）
 Makhnovist movement 马赫诺运动
 
 May_68/the massive explosion of May 1968 in France 五月风暴
+
+militant 激进的；武装的；激进分子；
+militancy 斗争精神，战斗精神
 
 mutual 互助的
 mutual credit 互助信贷（用在J.5节）
@@ -127,11 +137,15 @@ mutual banking 互助储蓄
 
 N
 
+NEP（New Economic Policy） 新经济政策
+
 O
 
 Op. Cit. （= opere citato） 同上，同上文
 
 oligarchy 寡头政治
+
+one-man management 一长制
 
 P
 
@@ -143,9 +157,14 @@ participatory community 参与式社区
 
 professional body 专业机构
 
+proletariat 无产阶级
+
 Q
 
 R
+
+rank and file 下级人员，下级士兵；普通成员
+指武装部队的士兵和下级军官，或组织、社会或国家的普通成员，与领导者相对。
 
 reformism 改良派
 
@@ -172,7 +191,11 @@ state socialism 国有社会主义
 state capitalism 国家社会主义
 [源自德语Staatskapitalismus](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89)，在本书中，批判国有社会主义（即非无政府主义式的社会主义）=国家资本主义
 
+state body 国家机构/政府机构
+
 social contrast 社会契约
+
+social wealth 社会财富
 
 social participation 社会参与
 
@@ -191,6 +214,9 @@ tyranny 暴政
 
 
 U
+
+union 工会
+trade union和labor union同义
 
 V
 

@@ -41,7 +41,7 @@
 | A.2      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   | 未同步进文档 |
 | A.3      |     | [100%](https://nightfall.buzz/library/the-anarchist-faq-editorial-collective-yi-ge-wu-zhi-zhu-yi-zhe-de-chang-jian-wen-da-1) | 0%   |        |
 | A.4      | 单凌锐 | 100%                                                                                                                         | 同步   |        |
-| A.5      | 单凌锐 | 20%                                                                                                                          | 同步   |        |
+| A.5      | 单凌锐 | 60%                                                                                                                          | 同步   |        |
 | B.1      |     | 100%                                                                                                                         | 0%   |        |
 | B.2      |     | 100%                                                                                                                         | 0%   |        |
 | B.3      |     | 100%                                                                                                                         | 0%   |        |
