@@ -1,9 +1,12 @@
-注：未标明的情况下默认采用斜杠前的翻译。斜杠后的翻译可以视文章内容，按通顺性和不致歧义或误解的情况下灵活取用
+注：未标明的情况下默认采用斜杠前的翻译。斜杠后的翻译可以视文章前后文，按通顺性和不致歧义或误解的情况下灵活取用
 Op.Cit.（同上）和quoted by（引自）在文章中基本未单独翻译过来，后续可能需要用Ctrl+H替换
 
 A
 
 abstentionism 不干涉主义
+
+absolutism 绝对主义
+在政治领域上可翻译作专制主义
 
 anarchy    无政府状态/安那其状态/安那其
 anarchism 无政府主义/安那其主义/无治主义
@@ -12,13 +15,17 @@ anarchism 无政府主义/安那其主义/无治主义
 anti-parliamentarian 反议会派
 
 authority 权威/威权
-理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有声望罢了，所以成为一个“权威”。但默认仍按照“权威”翻译，比如威权社会主义另有翻译(Authoritarian socialism)
+理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有丰富的知识罢了，他给出的建议相比于普通人更有参考价值，所以成为一个“权威”。但默认仍按照“权威”翻译，比如威权社会主义另有翻译(Authoritarian socialism)
 
 authoritarian 威权主义（的）/独裁主义（的）/独裁（的）
+authoritarianism 威权主义/独裁主义
 
 autocracy 独裁/专制统治
 capitalist autocracy 资本专制统治
-autocratic 专制的
+autocratic 独裁的/专制的
+——despotism 专制主义
+
+【后续译者和校对者主义，针对极权（主义）、集权（主义）、专制（主义）、独裁（主义）、威权（主义）可能需要详细区分与释义，在翻译的版本中有可能会相互混淆，本名词表仅仅作为参考。】
 
 autonomy 自治/自治权
 
@@ -26,14 +33,20 @@ Autonomism/Autonomist Marxism 自治主义/自治马克思主义
 
 apolitical 政治冷漠的，不关心政治的
 
+aristocracy 贵族，贵族阶级，贵族统治
+
 B
 
 Bolshevik 布尔什维克
+Bolshevism 布尔什维克主义
+叫布尔什维主义也行
 
 bourgeoisie 资产阶级，资产阶级分子
 注意与capitalist 资本家，相区分
 
 C
+
+consensus decision making 共识决策
 
 common property 公共财产
 
@@ -55,16 +68,22 @@ D
 decentralized 去中心化的/放权的
 
 defence association 防卫联盟（暂译）
-请后续译者审查
+请后续译者、校对者审查
+
+despotic government 专制政府
 
 division of labour 劳动分工
 专有名词
+
+discretion 自行决定权、判断力
 
 E
 
 economic structural crisis 经济结构性危机
 
 electioneering 竞选活动
+
+egalitarian 平等主义
 
 expropriate 没收，征用
 
@@ -73,11 +92,13 @@ F
 Founding Father 开国元勋
 
 federation 联邦（制）
+federalism 联邦制/联邦主义
 注意和confederation 邦联（制），相区分
 
 G
 
 guild socialism 行会社会主义
+偶尔音译做基尔德社会主义
 
 H
 
@@ -91,9 +112,14 @@ homestead theory 宅地理论
 
 I
 
+initiative 积极性/主动性
+
 individuality 个性
 
 industrial network 产业网络
+
+institition 制度；机构，团体；建立，设定
+通常情况下“制度”翻译更常见
 
 interest groups 利益集团
 
@@ -115,8 +141,8 @@ laissez-faire 自由放任（政策）
 
 
 libertarism 自由意志主义
-（注意，不是自由主义（liberalism））
-libertarian 自由意志主义者
+（注意，不是自由主义（liberalism），这是机器翻译产生非常常见的错误之一）
+libertarian 自由意志主义者，自由意志主义的
 
 M
 
@@ -127,7 +153,7 @@ Makhnovist movement 马赫诺运动
 May_68/the massive explosion of May 1968 in France 五月风暴
 
 militant 激进的；武装的；激进分子；
-militancy 斗争精神，战斗精神
+militancy 斗争精神，战斗精神；激进（思想）
 
 mutual 互助的
 mutual credit 互助信贷（用在J.5节）
@@ -164,7 +190,7 @@ Q
 R
 
 rank and file 下级人员，下级士兵；普通成员
-指武装部队的士兵和下级军官，或组织、社会或国家的普通成员，与领导者相对。
+指武装部队的士兵和下级军官，或组织、社会或国家中的普通成员，与领导者相对。
 
 reformism 改良派
 
@@ -177,6 +203,9 @@ sections 区会
 
 self-activity 自我活动
 self-determination 自决/自主决定
+self-organisation 自我组织
+
+self-assumed obligation 自我承担义务
 
 single-issue 单一问题
 single-issue campaigns 单一问题运动
@@ -202,6 +231,8 @@ social participation 社会参与
 syndicate 辛迪加，工团
 
 T
+
+territory 版图，领土，领地
 
 tradition 传统
 在书中通常指得是社会传统（social tradition）
@@ -241,4 +272,21 @@ X
 
 Y
 
-X
+Z
+
+
+
+
+相近词汇汇总
+注：优先取用括号外的、更前的翻译；并确保在相同的小节下，相同含义的某个单词全部采用一种翻译，而不出现同一单词在同一节甚至同一段出现不同翻译（词性和语境产生的含义差异除外）
+
+
+A.2.9中，联合，会议相关：
+
+assembly 集会（或议会）、
+congress 大会（或代表大会）
+conference [大型的]研讨会
+meeting 会议
+association 协会（或社团）
+
+commune 公社
