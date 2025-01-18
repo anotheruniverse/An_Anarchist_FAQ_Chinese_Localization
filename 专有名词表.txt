@@ -8,6 +8,9 @@ abstentionism 不干涉主义
 absolutism 绝对主义
 在政治领域上可翻译作专制主义
 
+atheism 无神论
+atheist 无神论者
+
 anarchy    无政府状态/安那其状态/安那其
 anarchism 无政府主义/安那其主义/无治主义
 目前统一使用无政府主义的译名，详见“汉化者声明”
@@ -45,6 +48,8 @@ bourgeoisie 资产阶级，资产阶级分子
 注意与capitalist 资本家，相区分
 
 C
+
+collectivism 集体主义
 
 consensus decision making 共识决策
 
@@ -85,6 +90,11 @@ electioneering 竞选活动
 
 egalitarian 平等主义
 
+egoism 利己主义
+egoistic 利己的/利己主义的
+egotism 自我主义
+egotistic/egotistical 自我主义的/自我中心的
+
 expropriate 没收，征用
 
 F
@@ -110,16 +120,21 @@ homestead theory 宅地理论
 书中用作F.4.1节，详见维基百科：
 [Walter Edward Block#Homestead](https://en.wikipedia.org/wiki/Walter_Block#Homesteading) , [Homestead principle](https://en.wikipedia.org/wiki/Homestead_principle)
 
+hypocrisy 虚伪/伪善
+
 I
 
 initiative 积极性/主动性
 
 individuality 个性
 
+individualism 个人主义
+rugged individualism 粗犷的个人主义
+
 industrial network 产业网络
 
 institition 制度；机构，团体；建立，设定
-通常情况下“制度”翻译更常见
+注意，通常情况下“制度”翻译更常见，其次才是“机构”
 
 interest groups 利益集团
 
@@ -138,7 +153,6 @@ Knights of Labor 劳工骑士团
 L
 
 laissez-faire 自由放任（政策）
-
 
 libertarism 自由意志主义
 （注意，不是自由主义（liberalism），这是机器翻译产生非常常见的错误之一）
@@ -217,7 +231,7 @@ statism 国家主义，中央集权
 state socialism 国有社会主义
 [源自德语Staatssozialismus](https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%9C%89%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9)
 不翻译做“政府社会主义”或者[“国家社会主义”](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89)，后者一般指的是民族社会主义或纳粹主义
-state capitalism 国家社会主义
+state capitalism 国家资本主义
 [源自德语Staatskapitalismus](https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89)，在本书中，批判国有社会主义（即非无政府主义式的社会主义）=国家资本主义
 
 state body 国家机构/政府机构
@@ -227,6 +241,10 @@ social contrast 社会契约
 social wealth 社会财富
 
 social participation 社会参与
+
+social organism 社会有机体
+
+shop steward 工会代表
 
 syndicate 辛迪加，工团
 
@@ -247,7 +265,8 @@ tyranny 暴政
 U
 
 union 工会
-trade union和labor union同义
+trade union和labor union同义、
+unionism 工会主义，联邦主义
 
 V
 
@@ -275,7 +294,7 @@ Y
 Z
 
 
-
+-----
 
 相近词汇汇总
 注：优先取用括号外的、更前的翻译；并确保在相同的小节下，相同含义的某个单词全部采用一种翻译，而不出现同一单词在同一节甚至同一段出现不同翻译（词性和语境产生的含义差异除外）
@@ -290,3 +309,14 @@ meeting 会议
 association 协会（或社团）
 
 commune 公社
+
+-----
+
+人名翻译汇总
+
+Alexander Berkman 亚历山大·贝克曼
+Gaetano Bresci 盖塔诺·布雷西
+Mikhail Bakunin 米哈伊尔·巴枯宁
+Pyotr/Peter Kropotkin 彼得·克鲁泡特金
+Murray Bookchin 默里·布克金
+Max Stirner 麦克斯·施蒂纳
