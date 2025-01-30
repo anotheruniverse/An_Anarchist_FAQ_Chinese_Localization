@@ -1,4 +1,4 @@
-注：未标明的情况下默认采用斜杠前的翻译。斜杠后的翻译可以视文章前后文，按通顺性和不致歧义或误解的情况下灵活取用
+注：未标明的情况下默认采用斜杠/分号前的翻译。斜杠后的翻译可以视文章前后文，按通顺性和不致歧义或误解的情况下灵活取用
 Op.Cit.（同上）和quoted by（引自）在文章中基本未单独翻译过来，后续可能需要用Ctrl+H替换
 
 A
@@ -7,6 +7,9 @@ abstentionism 不干涉主义
 
 absolutism 绝对主义
 在政治领域上可翻译作专制主义
+
+appropriate (v.) 占有，挪用；拨款
+
 
 atheism 无神论
 atheist 无神论者
@@ -47,11 +50,16 @@ Bolshevism 布尔什维克主义
 bourgeoisie 资产阶级，资产阶级分子
 注意与capitalist 资本家，相区分
 
+boss 雇主/老板
+
 C
 
 collectivism 集体主义
 
 consensus decision making 共识决策
+
+contrasts 合同，契约
+free contracts 自由合同
 
 common property 公共财产
 
@@ -59,6 +67,10 @@ commune 公社/社群
 The Paris Commune 巴黎公社
 communalism 社群主义
 Communards 公社社员
+
+communal 公共的；群体的，团体的；公社的
+communal ownership 公共所有制，共有制
+注意和公有制public ownership相区分
 
 communism 共产主义
 communist-anarchism 共产无政府主义
@@ -70,11 +82,13 @@ co-operatives 合作社
 
 D
 
-decentralized 去中心化的/放权的
+decentralized 放权的/去中心化的
+后者一般用在计算机领域
 
 defence association 防卫联盟（暂译）
 请后续译者、校对者审查
 
+despotism 专制；独裁
 despotic government 专制政府
 
 division of labour 劳动分工
@@ -101,9 +115,12 @@ F
 
 Founding Father 开国元勋
 
-federation 联邦（制）
+federation 联邦（制）；联合会
 federalism 联邦制/联邦主义
 注意和confederation 邦联（制），相区分
+
+feminism 女权主义/女性主义
+其实译者认为后者更好。可以在讨论后集中替换
 
 G
 
@@ -123,6 +140,8 @@ homestead theory 宅地理论
 hypocrisy 虚伪/伪善
 
 I
+
+idolatry 偶像崇拜
 
 initiative 积极性/主动性
 
@@ -166,8 +185,12 @@ Makhnovist movement 马赫诺运动
 
 May_68/the massive explosion of May 1968 in France 五月风暴
 
+means of production 生产资料
+
 militant 激进的；武装的；激进分子；
 militancy 斗争精神，战斗精神；激进（思想）
+
+might (n.) 强大力量，威力
 
 mutual 互助的
 mutual credit 互助信贷（用在J.5节）
@@ -189,15 +212,21 @@ one-man management 一长制
 
 P
 
+patriarchy 父权制
 patriarchal 父权制的
 
 pamphlets 宣传册/小册子
 
 participatory community 参与式社区
 
+primitivist 原始主义
+
 professional body 专业机构
 
 proletariat 无产阶级
+
+property 所有权；所有物，财产
+proprietor 所有者；业主
 
 Q
 
@@ -206,7 +235,8 @@ R
 rank and file 下级人员，下级士兵；普通成员
 指武装部队的士兵和下级军官，或组织、社会或国家中的普通成员，与领导者相对。
 
-reformism 改良派
+reformism 改良主义
+reformist 改良主义的，改良派
 
 Ricardian socialism 李嘉图社会主义
 
@@ -214,6 +244,10 @@ S
 
 sections 区会
 法国大革命/巴黎公社中的直接民主制的群众大会，没找到比较好的翻译，暂译作区会
+
+sectarian 宗派主义的；宗派的
+
+secular 世俗的
 
 self-activity 自我活动
 self-determination 自决/自主决定
@@ -224,6 +258,8 @@ self-assumed obligation 自我承担义务
 single-issue 单一问题
 single-issue campaigns 单一问题运动
 [单一问题政治-维基百科](https://en.wikipedia.org/wiki/Single-issue_politics)
+
+sic 原文如此[缩写]
 
 state 国家
 主义和政府（government）相区别，虽然政府在更广泛的含义上就是国家
@@ -263,6 +299,8 @@ tyranny 暴政
 
 
 U
+
+usury 高利贷
 
 union 工会
 trade union和labor union同义、
