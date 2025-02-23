@@ -26,20 +26,28 @@ authority 权威/威权
 authoritarian 威权主义（的）/独裁主义（的）/独裁（的）
 authoritarianism 威权主义/独裁主义
 
-autocracy 独裁/专制统治
+autocracy 专制/独裁统治
 capitalist autocracy 资本专制统治
-autocratic 独裁的/专制的
+autocratic 专制的/独裁的
 ——despotism 专制主义
+——dictatorship 独裁
+——totalitarian 极权制的
 
-【后续译者和校对者主义，针对极权（主义）、集权（主义）、专制（主义）、独裁（主义）、威权（主义）可能需要详细区分与释义，在翻译的版本中有可能会相互混淆，本名词表仅仅作为参考。】
+【后续译者和校对者注意，针对极权（主义）、集权（主义）、专制（主义）、独裁（主义）、威权（主义）的专有名词，可能需要详细区分与释义，在翻译的版本中有可能会相互混淆，本名词表仅仅作为参考。】
 
-autonomy 自治/自治权
+autonomy 自治/自治权/自主权
 
 Autonomism/Autonomist Marxism 自治主义/自治马克思主义
 
 apolitical 政治冷漠的，不关心政治的
 
+appropriation 占用，挪用
+私占，挪用
+
 aristocracy 贵族，贵族阶级，贵族统治
+
+argue 主张；认为；声称
+注意：一般不译作争吵
 
 B
 
@@ -52,7 +60,16 @@ bourgeoisie 资产阶级，资产阶级分子
 
 boss 雇主/老板
 
+bureaucracy 官僚制度；官僚
+bureaucratism 官僚主义（=officialism）
+
 C
+
+capitalism 资本主义，资本主义制度
+capitalist 资本家，资产阶级分子（bourgeois），资本主义者
+capitalists class 资本家阶级
+
+coercion 强制、强迫
 
 collectivism 集体主义
 
@@ -137,6 +154,8 @@ homestead theory 宅地理论
 书中用作F.4.1节，详见维基百科：
 [Walter Edward Block#Homestead](https://en.wikipedia.org/wiki/Walter_Block#Homesteading) , [Homestead principle](https://en.wikipedia.org/wiki/Homestead_principle)
 
+homophobia 同性恋恐惧症
+
 hypocrisy 虚伪/伪善
 
 I
@@ -162,6 +181,10 @@ intelligentsia 知识分子
 imperative mandate 强制委任
 
 J
+
+jus ad rem 对物请求权
+jus in re 对物权
+
 
 K
 
@@ -203,6 +226,8 @@ N
 NEP（New Economic Policy） 新经济政策
 
 O
+
+officialism 官僚主义；官僚作风
 
 Op. Cit. （= opere citato） 同上，同上文
 
@@ -251,8 +276,9 @@ secular 世俗的
 
 self-activity 自我活动
 self-determination 自决/自主决定
+self-government 自治
 self-organisation 自我组织
-
+self-ownership 自我所有权（B.4.2）
 self-assumed obligation 自我承担义务
 
 single-issue 单一问题
@@ -262,7 +288,7 @@ single-issue campaigns 单一问题运动
 sic 原文如此[缩写]
 
 state 国家
-主义和政府（government）相区别，虽然政府在更广泛的含义上就是国家
+注意和政府（government）相区别，虽然政府在更广泛的含义上就是国家
 statism 国家主义，中央集权
 state socialism 国有社会主义
 [源自德语Staatssozialismus](https://zh.wikipedia.org/wiki/%E5%9C%8B%E6%9C%89%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9)
@@ -273,12 +299,10 @@ state capitalism 国家资本主义
 state body 国家机构/政府机构
 
 social contrast 社会契约
-
 social wealth 社会财富
-
 social participation 社会参与
-
 social organism 社会有机体
+social fabric 社会结构
 
 shop steward 工会代表
 
@@ -354,6 +378,7 @@ commune 公社
 
 Alexander Berkman 亚历山大·贝克曼
 Gaetano Bresci 盖塔诺·布雷西
+Noam Chomsky 诺姆·乔姆斯基
 Mikhail Bakunin 米哈伊尔·巴枯宁
 Pyotr/Peter Kropotkin 彼得·克鲁泡特金
 Murray Bookchin 默里·布克金
