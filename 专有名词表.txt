@@ -47,7 +47,7 @@ appropriation 占用，挪用
 aristocracy 贵族，贵族阶级，贵族统治
 
 argue 主张；认为；声称
-注意：一般不译作争吵
+注意：本书中一般不译作争吵
 
 B
 
@@ -79,6 +79,9 @@ contrasts 合同，契约
 free contracts 自由合同
 
 common property 公共财产
+
+common ownership 共有制
+注意和public ownership 公有制，相区分
 
 commune 公社/社群
 The Paris Commune 巴黎公社
@@ -125,6 +128,8 @@ egoism 利己主义
 egoistic 利己的/利己主义的
 egotism 自我主义
 egotistic/egotistical 自我主义的/自我中心的
+
+epistemological 认识论的
 
 expropriate 没收，征用
 
@@ -208,7 +213,13 @@ Makhnovist movement 马赫诺运动
 
 May_68/the massive explosion of May 1968 in France 五月风暴
 
+mass of the population
+人民大众
+
 means of production 生产资料
+means of life 生活资料
+
+meritocracy 精英领导体制，英才教育
 
 militant 激进的；武装的；激进分子；
 militancy 斗争精神，战斗精神；激进（思想）
@@ -276,7 +287,9 @@ secular 世俗的
 
 self-activity 自我活动
 self-determination 自决/自主决定
-self-government 自治
+self-government 自治，自我治理
+self-management 自我管理
+  workers` self-management 工人自治
 self-organisation 自我组织
 self-ownership 自我所有权（B.4.2）
 self-assumed obligation 自我承担义务
@@ -306,7 +319,8 @@ social fabric 社会结构
 
 shop steward 工会代表
 
-syndicate 辛迪加，工团
+syndicate 辛迪加，工团（见I.2节）
+暂考虑采取“工团”的译名
 
 T
 
@@ -317,6 +331,10 @@ tradition 传统
 
 Tragedy of the Commons 公地悲剧
 参见[维基百科](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%9C%B0%E6%82%B2%E5%8A%87)
+
+the left/right 左翼/右翼
+根据情况翻译为左派/右派
+
 
 tyranny 暴政
 暴虐，专横，暴君统治
