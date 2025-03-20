@@ -8,6 +8,9 @@ abstentionism 不干涉主义
 absolutism 绝对主义
 在政治领域上可翻译作专制主义
 
+aids to the mind 思维辅助（I.1.2节）
+
+
 appropriate (v.) 占有，挪用；拨款
 
 
@@ -21,7 +24,8 @@ anarchism 无政府主义/安那其主义/无治主义
 anti-parliamentarian 反议会派
 
 authority 权威/威权
-理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有丰富的知识罢了，他给出的建议相比于普通人更有参考价值，所以成为一个“权威”。但默认仍按照“权威”翻译，比如威权社会主义另有翻译(Authoritarian socialism)
+理论上两者译法都可以，但以语义通顺优先。两者均指“权力和威望”。但是我个人倾向于后者，因为前者在中文语境具有其他含义——一个领域的权威不一定是“威权”的——他们只是有丰富的知识罢了，他给出的建议相比于普通人更有参考价值，所以成为一个“权威”。
+但默认仍按照“权威”翻译，比如威权社会主义另有翻译(Authoritarian socialism)
 
 authoritarian 威权主义（的）/独裁主义（的）/独裁（的）
 authoritarianism 威权主义/独裁主义
@@ -78,6 +82,8 @@ consensus decision making 共识决策
 contrasts 合同，契约
 free contracts 自由合同
 
+commercialism 商业主义
+
 common property 公共财产
 
 common ownership 共有制
@@ -116,6 +122,10 @@ division of labour 劳动分工
 
 discretion 自行决定权、判断力
 
+distribution 分配
+distribution according to work/deed 按劳分配
+distribution according to need 按需分配
+
 E
 
 economic structural crisis 经济结构性危机
@@ -128,6 +138,8 @@ egoism 利己主义
 egoistic 利己的/利己主义的
 egotism 自我主义
 egotistic/egotistical 自我主义的/自我中心的
+
+entrepreneurial market 创业市场
 
 epistemological 认识论的
 
@@ -179,9 +191,12 @@ industrial network 产业网络
 institition 制度；机构，团体；建立，设定
 注意，通常情况下“制度”翻译更常见，其次才是“机构”
 
+interest 利益；利益集团
 interest groups 利益集团
 
 intelligentsia 知识分子
+
+insurrections 暴动；叛乱
 
 imperative mandate 强制委任
 
@@ -259,10 +274,14 @@ primitivist 原始主义
 
 professional body 专业机构
 
+production goods 生产资料（I.1.1节）
+和means of production同义
+
 proletariat 无产阶级
 
 property 所有权；所有物，财产
 proprietor 所有者；业主
+propertarian 财产主义者
 
 Q
 
@@ -271,12 +290,18 @@ R
 rank and file 下级人员，下级士兵；普通成员
 指武装部队的士兵和下级军官，或组织、社会或国家中的普通成员，与领导者相对。
 
+rational 合理的；理性的
+rational decisions 理性决策
+
 reformism 改良主义
 reformist 改良主义的，改良派
 
 Ricardian socialism 李嘉图社会主义
 
 S
+
+Section A 第A章
+Section A.1.2 A.1.2节
 
 sections 区会
 法国大革命/巴黎公社中的直接民主制的群众大会，没找到比较好的翻译，暂译作区会
@@ -362,7 +387,7 @@ W
 wage slavery 工资奴役
 
 wage labour 雇佣劳动
-在语境中也可翻译作雇佣劳工
+在语境中也可翻译作雇佣劳工，工资劳动者
 
 working class 工人阶级/劳动阶级
 注意，不译做无产阶级（proletariat）
@@ -389,6 +414,15 @@ meeting 会议
 association 协会（或社团）
 
 commune 公社
+community 社区
+union 联盟（工会）
+labor union 工会
+federation 联邦
+confederation 邦联
+association 协会（或社团）
+co-operative 合作社
+
+syndicate 工团
 
 -----
 
@@ -401,3 +435,4 @@ Mikhail Bakunin 米哈伊尔·巴枯宁
 Pyotr/Peter Kropotkin 彼得·克鲁泡特金
 Murray Bookchin 默里·布克金
 Max Stirner 麦克斯·施蒂纳
+Hatta Shuzo 八太舟三
